@@ -25,3 +25,13 @@ M5 - 09 - Folium - Paula García.ipynb
 Prophet v2 - Predecir el valor de Bitcoin - Paula García.ipynb
 
 SpaceX - 3 -EDA Using SQL - Paula García.ipynb
+
+# Viernes 13
+
+M5 - 10 - Matplotlib y Seaborn - Paula García.ipynb
+
+M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium - Paula García.ipynb
+
+M5 - SPACEX2 - 6 - Machine Learning Predicciones - Paula García.ipynb
+
+
